@@ -1,0 +1,17 @@
+# Rao nagos — https://rao-nagos.pf/
+# Tout est lisible, y compris par les robots des assistants.
+User-agent: *
+Allow: /
+
+# Les assistants sont les bienvenus : la version Markdown de cette page est
+# plus simple à lire que son HTML.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://rao-nagos.pf/sitemap.xml

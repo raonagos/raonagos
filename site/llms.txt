@@ -1,0 +1,43 @@
+# Rao nagos — agence digitale, Tahiti
+
+> Petite entreprise à Paea, Tahiti, depuis 2020. Sites web personnalisés,
+> automatisation de tâches (robots de marché, rapports, envois programmés) et
+> serveurs de messagerie sur domaine .pf. Écrit aussi du logiciel libre en Rust.
+
+Contact : contact@rao-nagos.pf · +689 87 32 37 95 · Tahiti, Paea
+Horaires : lundi–jeudi 09:00–14:00, vendredi 09:00–12:00 (heure de Tahiti, UTC−10)
+
+## Services et prix
+
+- Rao web — 40 000 XPF : site ou application web personnalisés, design propre,
+  optimisation des images, 1 Go de stockage, domaine .pf, SEO, application
+  installable et lisible hors ligne. Délai minimum : 2 semaines.
+- Rao bot — 150 000 XPF (entreprise : 600 000 XPF) : passage d'ordres automatisé
+  sur les marchés, rapports et alertes, envois de messages programmés,
+  apprentissage automatique, maintenance. Délai : 3 à 6 mois.
+- Rao mail server — 150 000 XPF : installation d'une messagerie sur ton domaine,
+  comptes illimités, gestion par API, auto-hébergement ou infogérance.
+  Installation en une journée.
+- Rao mission — 20 700 XPF la journée, sans mensualité : intervention ponctuelle,
+  dépannage site ou messagerie, audit, rapport écrit.
+
+Après livraison : 20 700 XPF la journée, plus 7 000 XPF de suivi mensuel.
+
+## Pages
+
+- [Accueil](https://rao-nagos.pf/) — la page complète, services, œuvres, agence, contact
+- [Version Markdown](https://rao-nagos.pf/index.md) — la même page, lisible sans HTML
+- [Données du site](https://rao-nagos.pf/api/site.json) — l'agence, les offres, les prix, en JSON
+- [Mentions légales](https://rao-nagos.pf/#mentions) — éditeur : Rao nagos, RCS Papeete TPI 20 1100 A
+
+## Langues
+
+Français (langue du HTML, toujours disponible) et anglais (dans le script).
+Le tahitien a sa place dans la page et sera rempli par un locuteur du reo
+tahiti : rien n'y sera inventé.
+
+## Notes
+
+Ce fichier décrit le site tel qu'il est : aucune page, aucun service, aucune API
+n'y est annoncée sans exister. Le site ne dépose aucun cookie de mesure
+d'audience et ne collecte que ce qu'on lui écrit dans le formulaire de contact.
